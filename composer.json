@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/addthis_sharingtool",
+    "type": "magento-module",
+    "license": "Apache",
+    "homepage": "",
+    "description": "AddThis Sharing Tool",
+    "authors": [
+    {
+        "name": "AddThis",
+        "email": "plugins@addthis.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
