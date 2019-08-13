@@ -210,7 +210,7 @@ var addthis_config 	= {
 	        var at_script = document.createElement('script');
 	        at_script.src = '//s7.addthis.com/js/300/addthis_widget.js#pubid=<?php echo urlencode($pubid) ?>';
 	        document.getElementsByTagName('head')[0].appendChild(at_script);
-	        var addthis_product = 'mag-sp-2.1.0';
+	        var addthis_product = 'mag-sp-2.0.0';
 	    }
 	};
 	if(window.addEventListener)

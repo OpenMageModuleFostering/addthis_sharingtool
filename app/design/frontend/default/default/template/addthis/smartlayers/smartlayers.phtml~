@@ -50,7 +50,7 @@
 	    $atslScript .= "<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js#pubid=".urlencode($pubid)."'></script>". PHP_EOL;
 		
 		$atslScript .= "<script type='text/javascript'>". PHP_EOL;
-		$atslScript .= "\tvar addthis_product='mag-sp-2.1.0';". PHP_EOL;				
+		$atslScript .= "\tvar addthis_product='mag-sp-2.0.0';". PHP_EOL;				
 		if($custom_code_enabled == 1 && $custom_code_content != ""){
 			$atslScript .= $custom_code_content;
 		} else {

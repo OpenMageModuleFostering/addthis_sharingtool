@@ -24,29 +24,29 @@ class AddThis_SharingTool_Model_Source_Buttons
     	$result = array();
     	
         $result[] = array('class'=>'buttons','value'=>'style_1','label'=>'&nbsp;&nbsp;
-		<img src="https://cache.addthiscdn.com/icons/v1/thumbs/facebook.gif" style="vertical-align:middle"/>&nbsp;
-		<img src="https://cache.addthiscdn.com/icons/v1/thumbs/twitter.gif" style="vertical-align:middle"/>&nbsp;
-		<img src="https://cache.addthiscdn.com/icons/v1/thumbs/email.gif" style="vertical-align:middle"/>&nbsp;
-		<img src="https://cache.addthiscdn.com/icons/v1/thumbs/google.gif" style="vertical-align:middle"/>&nbsp;
-		<img src="https://cache.addthiscdn.com/icons/v1/thumbs/linkedin.gif" style="vertical-align:middle"/>&nbsp;
-		<img src="https://cache.addthiscdn.com/icons/v1/thumbs/menu.gif" style="vertical-align:middle"/><br/><br/>');
+		<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/facebook.png" style="vertical-align:middle"/>&nbsp;
+		<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/twitter.png" style="vertical-align:middle"/>&nbsp;
+		<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/email.png" style="vertical-align:middle"/>&nbsp;
+		<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/google.png" style="vertical-align:middle"/>&nbsp;
+		<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/linkedin.png" style="vertical-align:middle"/>&nbsp;
+		<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/menu.png" style="vertical-align:middle"/><br/><br/>');
         
 		$result[] = array('value'=>'style_2','label'=>'&nbsp;&nbsp;<img src="https://cache.addthiscdn.com/downloads/plugins/magento/gtc-like-tweet-share.gif" style="vertical-align:middle;width:273px;"/><br/><br/>');
 		
-		$result[] = array('value'=>'style_3','label'=>'&nbsp;&nbsp;<img src="https://cache.addthiscdn.com/icons/v1/thumbs/32x32/facebook.png" style="vertical-align:middle"/>&nbsp;
-	                <img src="https://cache.addthiscdn.com/icons/v1/thumbs/32x32/twitter.png" style="vertical-align:middle" />&nbsp;
-	                <img src="https://cache.addthiscdn.com/icons/v1/thumbs/32x32/email.png" style="vertical-align:middle" />&nbsp;
-		            <img src="https://cache.addthiscdn.com/icons/v1/thumbs/32x32/google.png" style="vertical-align:middle" />&nbsp;
-		            <img src="https://cache.addthiscdn.com/icons/v1/thumbs/32x32/linkedin.png" style="vertical-align:middle" />&nbsp;
-		            <img src="https://cache.addthiscdn.com/icons/v1/thumbs/32x32/addthis.png" style="vertical-align:middle" /><br/><br/>');
+		$result[] = array('value'=>'style_3','label'=>'&nbsp;&nbsp;<img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" style="vertical-align:middle"/>&nbsp;
+	                <img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" style="vertical-align:middle" />&nbsp;
+	                <img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/email.png" style="vertical-align:middle" />&nbsp;
+		            <img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google.png" style="vertical-align:middle" />&nbsp;
+		            <img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/linkedin.png" style="vertical-align:middle" />&nbsp;
+		            <img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/addthis.png" style="vertical-align:middle" /><br/><br/>');
 	   
-	    $result[] = array('value'=>'style_4','label'=>'&nbsp;&nbsp;<img src="https://cache.addthiscdn.com/icons/v1/thumbs/menu.gif" style="vertical-align:middle"/>&nbsp;
-    			   <label>Share</label>&nbsp;<img src="https://cache.addthiscdn.com/icons/v1/thumbs/facebook.gif" style="vertical-align:middle" />&nbsp;
-    			   <img src="https://cache.addthiscdn.com/icons/v1/thumbs/myspace.gif" style="vertical-align:middle" />&nbsp;
-    			   <img src="https://cache.addthiscdn.com/icons/v1/thumbs/google.gif" style="vertical-align:middle" />&nbsp;
-                   <img src="https://cache.addthiscdn.com/icons/v1/thumbs/twitter.gif" style="vertical-align:middle" /><br/><br/>');		
+	    $result[] = array('value'=>'style_4','label'=>'&nbsp;&nbsp;<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/menu.png" style="vertical-align:middle"/>&nbsp;
+    			   <label>Share</label>&nbsp;<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/facebook.png" style="vertical-align:middle" />&nbsp;
+    			   <img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/myspace.png" style="vertical-align:middle" />&nbsp;
+    			   <img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/google.png" style="vertical-align:middle" />&nbsp;
+                   <img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/twitter.png" style="vertical-align:middle" /><br/><br/>');		
 		
-	    $result[] = array('value'=>'style_5','label'=>'&nbsp;&nbsp;<img src="https://cache.addthiscdn.com/icons/v1/thumbs/menu.gif" style="vertical-align:middle"/>&nbsp;
+	    $result[] = array('value'=>'style_5','label'=>'&nbsp;&nbsp;<img src="https://cache.addthiscdn.com/icons/v2/thumbs/16x16/menu.png" style="vertical-align:middle"/>&nbsp;
     			   <label>Share</label><br/><br/>');		
 	   
 	   
